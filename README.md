@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/79284980/110831365-bebe1680-82cc-11eb-9d82-d6fe4d131222.jpg)
+![logo](https://github.com/rezahacker7el27/RezaBotz/commit/3754526635f4e0ae21be4694e4ed25e19d5c8cfc)
 ------------------------------------
 Versi Indonesia
 
