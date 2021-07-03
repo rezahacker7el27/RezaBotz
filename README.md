@@ -1,4 +1,4 @@
-![logo](https://github.com/rezahacker7el27/RezaBotz/commit/3754526635f4e0ae21be4694e4ed25e19d5c8cfc)
+![logo](https://github.com/rezahacker7el27/RezaBotz/blob/61a5de12b277523b097c2e0f2f6208e5403f604e/akiraganz/logo.jpg)
 ------------------------------------
 Versi Indonesia
 
