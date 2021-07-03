@@ -7,8 +7,8 @@ Cara Install Script Ini
 1. buka termux
 2. apt-get install bash
 3. apt-get install git
-3. git clone https://github.com/dappauhuy/dapbot-cuy
-4. cd dapbot-cuy
+3. git clone https://github.com/rezahacker7el27/RezaBotz
+4. cd RezaBotz
 5. bash install.sh
 6. node index.js
 
